@@ -1,8 +1,3 @@
-Sê bem-vindo! Chamo-me Juan Henrique 👋
-
-- 📖 Facilitando a vida de estudantes por meio da tecnologia. 
-- 🐍 Estudando Python. 
-- 💬 Não deixe suas ideias de lado, pois elas podem te enriquecer. 
 - 💬 Nada é tão perfeito que não possa ser melhorado.
 
 <div align="left">
