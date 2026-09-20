@@ -40,12 +40,10 @@ Localização: São Paulo, Brasil
 
 Stack principal:
   - Python
-  - PHP
   - JavaScript
   - Docker
   - Linux
   - Flask
-  - Laravel
 ```
 
 ---
@@ -54,7 +52,7 @@ Stack principal:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,flask,laravel,mysql,postgres,docker,linux,debian,git,github,vscode,bash,cloudflare" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,mysql,postgres,docker,linux,debian,git,github,vscode,bash,cloudflare" />
 
 </div>
 
